@@ -1,0 +1,14 @@
+layout_spectrum: 0.3029363511595875
+typography_spectrum: 0.00288805621676147
+color:
+  brandStrength: 0.08027411671355367
+  lightness: 0.11079333629459143
+  saturation: 0.36400139704346657
+  rhythmicContrast: 0.9218608173541725
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: Finch Portfolio
